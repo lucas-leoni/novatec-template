@@ -164,12 +164,19 @@ a {
     padding: 6px;
 }
 .main {
-    width: 664px;
+    width: 667px;
     height: 655px;
 }
 .aside-right {
     border: 1px solid red;
-    width: 183px;
+    width: 180px;
     height: 493px;
     margin: 0px 3px 0px 0px;
+}
+.h1 {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #027399;
+    color: #FFFFFF;
+    padding: 6px;
 }
