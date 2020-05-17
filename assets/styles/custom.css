@@ -168,7 +168,6 @@ a {
     height: 655px;
 }
 .aside-right {
-    border: 1px solid red;
     width: 180px;
     height: 493px;
     margin: 0px 3px 0px 0px;
@@ -179,8 +178,92 @@ a {
     background-color: #027399;
     color: #FFFFFF;
     padding: 6px;
+    width: 180px;
 }
 .social {
-    height: 134px;
+    height: 139px;
+    width: 180px;
     background-color: #EDF2F2;
+    margin: 0px 0px 10px 0px;
+}
+.lista-d li {
+    display: inline-block;
+}
+.li-twitter {
+    margin: 9.16px 3px 0px 9.16px;
+}
+.li-linkedin {
+    margin: 9.16px 3px 0px 3px;
+}
+.li-facebook {
+    margin: 9.16px 3px 0px 3px;
+}
+.li-skoob {
+    margin: 9.16px 3px 0px 3px;
+}
+.li-instagram {
+    margin: 9.16px 3px 0px 3px;
+}
+.p-social {
+    font-size: 12px;
+    text-align: center;
+    margin: 12px 0px 0px 0px;
+}
+.form2 {
+    width: 180px;
+    margin: 13px 0px 0px 0px;
+    position: relative;
+}
+.busca2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    border: 1px solid #36566E;
+    width: 139px;
+    height: 16px;
+    margin: 0px 4px 0px 10px;
+}
+.botao-busca2 {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 5px;
+}
+.bootstrap {
+    background-color: #5A4080;
+    height: 134px;
+    width: 180px;
+    margin: 0px 0px 16px 0px;
+}
+.h2 {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #027399;
+    color: #FFFFFF;
+    padding: 6px;
+    width: 180px;
+}
+.cursos {
+    background-color: #EDF2F2;
+    width: 180px;
+    height: 137px;
+}
+.img-arduino {
+    width: 170px;
+    height: 30px;
+    margin: 5px 5px 0px 5px;
+}
+.img-kubernetes {
+    width: 170px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
+}
+.img-asterisk-b {
+    width: 170px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
+}
+.img-asterisk-a {
+    width: 170px;
+    height: 30px;
+    margin: 0px 5px 0px 5px;
 }
