@@ -1,0 +1,112 @@
+body {
+    margin: 0px 163px 0px 163px;
+}
+.header {
+    border-top: 5px solid #006486;
+    border-bottom: 5px solid #006486;
+    background-color: #EDF2F2;
+}
+.container {
+    margin: 0px;
+    width: 1040px;
+}
+.grid-3 {
+    width: 120px;
+    height: 30px;
+    margin-bottom: 40px;
+}
+.logo {
+    padding: 13px 0px 37px 4px;
+}
+.header-menu1 {
+    background-color: #006486;
+    width: 295px;
+    height: 45px;
+    margin-right: 0px;
+    margin-left: 605px;
+    border-bottom-left-radius: 20px;
+}
+.header-menu1 ul li {
+    display: inline-block;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.pedidos-img {
+    margin: 0px 53px 0px 45px;
+}
+.cadastro-img {
+    margin: 0px 35px 0px 0px;
+}
+.duvidas-img {
+    margin: 0px 32px 0px 0px;
+}
+.carrinho-img {
+    margin: 0px 13px 0px 0px;
+}
+.pedidos-texto {
+    padding: 0px 6px 0px 21px;
+}
+.duvidas-texto {
+    padding: 0px 6px 0px 6px;
+}
+.header-menu2 {
+    width: 770px;
+    margin-left: 123px;
+    font-size: 12px;
+}
+.header-menu2 ul li {
+    display: inline-block;
+    border-top-right-radius: 10px;
+}
+.home {
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+    background-color: #006486;
+}
+.mangas {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.catalogo {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.professores {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.seja {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.blog {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.centro {
+    background-color: #FF737F;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.quem {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+}
+.fale {
+    background-color: #C3DFE7;
+    padding: 5px 10px 5px 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.a-home {
+    color: #FFFFFF;
+}
