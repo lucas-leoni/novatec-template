@@ -13,17 +13,13 @@ body {
 .grid-3 {
     width: 120px;
     height: 30px;
-    margin-bottom: 40px;
-}
-.logo {
-    padding: 13px 0px 37px 4px;
+    margin: 15px 0px 0px 15px;
 }
 .header-menu1 {
     background-color: #006486;
     width: 295px;
     height: 45px;
-    margin-right: 0px;
-    margin-left: 605px;
+    margin: 0px 0px 0px 610px;
     border-bottom-left-radius: 20px;
 }
 .header-menu1 ul li {
@@ -61,7 +57,7 @@ body {
 }
 .home {
     padding: 5px 10px 5px 10px;
-    margin-right: 10px;
+    margin: 40px 10px 0px 0px;
     background-color: #006486;
 }
 .mangas {
@@ -109,4 +105,31 @@ a {
 }
 .a-home {
     color: #FFFFFF;
+}
+.container2 {
+    width: 1040px;
+    height: 50px;
+    background-color: #EDF2F2;
+    margin: 5px 0px 5px 0px;
+}
+.form1 {
+    width: 670px;
+    height: 50px;
+    margin: 0px 0px 0px 170px;
+}
+.busca {
+    width: 580px;
+    height: 35px;
+    color: #CCCCCC;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #C3C3C3;
+    margin: 7.5px 10px 0px 0px;
+}
+.botao-busca {
+    background-color: #027399;
+    color: #FFFFFF;
+    height: 35px;
+    font-size: 18px;
+    font-weight: bold;
 }
