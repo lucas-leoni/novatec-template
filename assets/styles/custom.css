@@ -164,6 +164,12 @@ a {
     padding: 6px;
 }
 .main {
-    width: 690px;
+    width: 664px;
     height: 655px;
+}
+.aside-right {
+    border: 1px solid red;
+    width: 183px;
+    height: 493px;
+    margin: 0px 3px 0px 0px;
 }
