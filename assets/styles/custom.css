@@ -5,12 +5,13 @@ body {
     border-top: 5px solid #006486;
     border-bottom: 5px solid #006486;
     background-color: #EDF2F2;
+    width: 1024px;
 }
 .container {
     margin: 0px;
     width: 1040px;
 }
-.grid-3 {
+.a-logo {
     width: 120px;
     height: 30px;
     margin: 15px 0px 0px 15px;
@@ -19,7 +20,7 @@ body {
     background-color: #006486;
     width: 295px;
     height: 45px;
-    margin: 0px 0px 0px 610px;
+    margin: 0px 0px 0px 594px;
     border-bottom-left-radius: 20px;
 }
 .header-menu1 ul li {
@@ -107,10 +108,10 @@ a {
     color: #FFFFFF;
 }
 .container2 {
-    width: 1040px;
+    width: 1024px;
     height: 50px;
     background-color: #EDF2F2;
-    margin: 5px 0px 5px 0px;
+    margin: 5px 0px 10px 0px;
 }
 .form1 {
     width: 670px;
@@ -132,4 +133,33 @@ a {
     height: 35px;
     font-size: 18px;
     font-weight: bold;
+}
+.aside-left {
+    margin: 0px 0px 80px 3px;
+    height: 574px;
+    width: 150px;
+}
+.lista-e li {
+    font-size: 13.6px;
+    background-color: #EDF2F2;
+    border-top: 1px solid #fff;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 4px;
+}
+.lista-e li:hover {
+    background-color:#E0E9E9;
+}
+.lista-e a {
+    color: #003399;
+}
+.lista-e a:hover {
+    color: black;
+}
+.categorias {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #027399;
+    color: #FFFFFF;
+    padding: 6px;
 }
